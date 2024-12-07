@@ -125,3 +125,7 @@ plt.show()
 사용법
 위의 코드를 실행하여 RNN 모델을 학습시킵니다.
 학습이 완료되면, 예측 결과를 시각화하여 모델 성능을 확인할 수 있습니다.
+
+결과![download](https://github.com/user-attachments/assets/54c14e72-612f-4b8e-8eeb-367459c881e4)
+
+
