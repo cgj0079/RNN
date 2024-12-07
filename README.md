@@ -127,5 +127,5 @@ plt.show()
 학습이 완료되면, 예측 결과를 시각화하여 모델 성능을 확인할 수 있습니다.
 
 결과
-질이 별로인 데이터를 넣은 결과 ![image](https://github.com/user-attachments/assets/e33a5b15-f357-4988-a1ad-c18a84a79219)
+질이 별로인 데이터를 넣은 결과: ![image](https://github.com/user-attachments/assets/e33a5b15-f357-4988-a1ad-c18a84a79219)
 질 좋은 데이터를 넣은 결과: ![download](https://github.com/user-attachments/assets/54c14e72-612f-4b8e-8eeb-367459c881e4)
